@@ -4,7 +4,6 @@ version = "0.1.0"
 description = "This is a script to crop scans of old photobooks from the NDL like those linked. It's written for Python 3 and uses OpenCV for the heavy lifting."
 authors = [""]
 readme = "README.md"
-packages = [{include = "ndl_crop"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
